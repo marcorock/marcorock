@@ -8,7 +8,7 @@
 - 📫 Se quiser me contactar: marco@creativeskull.com.br ou por marcoredesdecomputadores@gmail.com
 
 ---
-### Minhas linguagens mais usadas
+### Minhas Skills e estudos atuais ...
 
 <img alt="MarcoCss" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> +
 <img alt="MarcoHTML" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> +
@@ -17,7 +17,9 @@
 <img alt="MarcoFlutter" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> + <img alt="MarcoDart" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> +
 <img alt="MarcoGit" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> +
 <img alt="MarcoDocker" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> +
-<img alt="MarcoFigma" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img alt="MarcoFigma" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> +
+<img alt="MarcoWordPress" align="center" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+
 ---
 
 <div style="display: inline-block;">
